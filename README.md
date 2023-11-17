@@ -1,2 +1,6 @@
 # Game_getCircule
-Welcome to getCircules, an exciting and visually dynamic game created using SFML in C++. Get ready for a thrilling experience where your task is to capture spinning circles that orbit around your mouse!
+Welcome to GetCircule, a captivating game where you capture spinning circles using your mouse. This game is built using SFML in C++.
+
+# Technologies Used:
+  SFML (Simple and Fast Multimedia Library): The game leverages SFML for smooth graphics, window management, and user input.
+  C++ Programming: The core logic and functionality are implemented in C++ for efficiency and performance
